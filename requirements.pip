@@ -1,0 +1,5 @@
+psutil>=0.3.0
+nose
+nose-exclude
+ipdb
+MYSQL-python
