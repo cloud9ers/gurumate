@@ -10,4 +10,4 @@ Requirements
 You need to have these apt packages installed on your system
 * python-mysqldb
 * python-dev
-* libmysql-dev
+* libmysqld-dev
