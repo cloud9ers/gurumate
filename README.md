@@ -8,6 +8,6 @@ A library of platform-independent tools that ease gathering information about th
 Requirements
 ========
 You need to have these apt packages installed on your system
-*python-mysqldb
-*python-dev
-*libmysql-dev
+* python-mysqldb
+* python-dev
+* libmysql-dev
